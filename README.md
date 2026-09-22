@@ -40,6 +40,9 @@ Start the development server:
 Then run the application on your preferred platform.
 
 Android
+
 npx expo start --android
+
 iOS
+
 npx expo start --ios
