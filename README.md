@@ -25,10 +25,12 @@ The project focuses on smooth gameplay, touch controls, animations, and a lightw
 📦 Installation:
 
 Clone the repository:
+
   git clone https://github.com/nativedevonly/spark-game.git
   cd spark-game
 
 Install dependencies:
+
   npm install
   
 Start the development server:
